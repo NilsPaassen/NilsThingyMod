@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/crop",
+  "textures": {
+    "crop": "nilsthingymod:block/anise_crop_stage5"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "nilsthingymod:block/poplar_log",
+    "side": "nilsthingymod:block/poplar_log"
+  }
+}

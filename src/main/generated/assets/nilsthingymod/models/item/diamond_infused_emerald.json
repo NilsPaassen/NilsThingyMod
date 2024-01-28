@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "nilsthingymod:item/diamond_infused_emerald"
+  }
+}

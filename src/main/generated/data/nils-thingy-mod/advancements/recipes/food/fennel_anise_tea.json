@@ -1,0 +1,47 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_cup": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "nilsthingymod:cup"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_fennel_anise_mix": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "nilsthingymod:fennel_anise_mix"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "nilsthingymod:fennel_anise_tea"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_fennel_anise_mix",
+      "has_cup"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "nilsthingymod:fennel_anise_tea"
+    ]
+  }
+}

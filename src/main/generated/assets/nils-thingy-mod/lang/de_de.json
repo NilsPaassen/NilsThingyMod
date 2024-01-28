@@ -1,0 +1,20 @@
+{
+  "block.nilsthingymod.poplar_leaves": "Pappellaub",
+  "block.nilsthingymod.poplar_log": "Pappelstamm",
+  "block.nilsthingymod.poplar_planks": "Pappelbretter",
+  "block.nilsthingymod.poplar_sapling": "Pappelsetzling",
+  "block.nilsthingymod.poplar_wood": "Pappelholz",
+  "block.nilsthingymod.stripped_poplar_log": "Entrindeter Pappestamm",
+  "block.nilsthingymod.stripped_poplar_wood": "Entrindetes Pappelholz",
+  "entity.nilsthingymod.goblin": "Goblin",
+  "entity.nilsthingymod.redpanda": "Roter Panda",
+  "item.nilsthingymod.anise": "Getrockneter Anis",
+  "item.nilsthingymod.anise_seed": "Anis Sammen",
+  "item.nilsthingymod.cup": "Tasse",
+  "item.nilsthingymod.diamond_infused_emerald": "Diamantener Smaragd",
+  "item.nilsthingymod.emerald_sword": "Smaragd Schwert",
+  "item.nilsthingymod.fennel": "Getrockneter Fenchel",
+  "item.nilsthingymod.fennel_anise_mix": "Fenchel Anis Mix",
+  "item.nilsthingymod.fennel_anise_tea": "Fenchel Anis Tee",
+  "item.nilsthingymod.fennel_seed": "Fenchel Sammen"
+}

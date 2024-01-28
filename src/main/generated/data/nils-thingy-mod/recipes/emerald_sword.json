@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "e": {
+      "item": "nilsthingymod:diamond_infused_emerald"
+    },
+    "s": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "e",
+    "e",
+    "s"
+  ],
+  "result": {
+    "item": "nilsthingymod:emerald_sword"
+  }
+}

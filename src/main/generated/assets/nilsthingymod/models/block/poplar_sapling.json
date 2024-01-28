@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "nilsthingymod:block/poplar_sapling"
+  }
+}

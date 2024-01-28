@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 300,
+  "experience": 5.0,
+  "group": "dry",
+  "ingredient": {
+    "item": "nilsthingymod:fennel_seed"
+  },
+  "result": "nilsthingymod:fennel"
+}

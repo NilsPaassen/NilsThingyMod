@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/crop",
+  "textures": {
+    "crop": "nilsthingymod:block/fennel_crop_stage1"
+  }
+}

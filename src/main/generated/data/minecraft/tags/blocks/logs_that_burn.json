@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "nilsthingymod:poplar_log",
+    "nilsthingymod:poplar_wood",
+    "nilsthingymod:stripped_poplar_wood",
+    "nilsthingymod:stripped_poplar_log"
+  ]
+}
